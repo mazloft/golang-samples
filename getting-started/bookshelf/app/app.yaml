@@ -1,6 +1,6 @@
 runtime: go
-vm: true
+env: flex
 api_version: 1
 
 env_variables:
-  OAUTH2_CALLBACK: https://<your-project-id>.appspot.com/oauth2callback
+  OAUTH2_CALLBACK: https://fewtrell-public-testapp2.appspot.com/oauth2callback
